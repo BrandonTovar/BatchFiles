@@ -1,0 +1,4 @@
+Comando XCOPY::
+
+ xcopy "c:\origen\*.*" "c:\destino\*.*" /d/e/y/c/i/h/f/r/k
+
